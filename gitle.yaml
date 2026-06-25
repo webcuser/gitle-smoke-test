@@ -1,0 +1,10 @@
+# Example gitle.yaml
+# Define tasks under the 'tasks' key
+
+tasks:
+  build:
+    description: Build the project
+    command: make build
+  test:
+    description: Run tests
+    command: make test
